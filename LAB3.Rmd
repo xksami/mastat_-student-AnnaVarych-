@@ -109,4 +109,5 @@ boxplot(sample1, sample2,
         names = c("n = 100", "n = 1000"), 
         main = "Boxplot вибірок",
         col = c("skyblue", "lightgreen"))
+        
 ```
